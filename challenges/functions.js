@@ -40,7 +40,9 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 
 // Explanation:
 
-/*nestedfunctions() can access the variable internal because it is a child of the myFunction scope. myFunction gives access to nestedFunction and they both can access internal and external variables.
+/*
+
+nestedfunctions() can access the variable `internal` because it is a child of the myFunction scope. myFunction gives access to nestedFunction and they both can access internal and external variables.
 
 
 */
